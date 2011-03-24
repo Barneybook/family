@@ -14,8 +14,7 @@
 		<p>信箱：<input type="text" name="email"value="信箱"/></p>
 		<p>性別：<input type="text" name=""		value=""/></p>
 		<p><input type="text" name=""		value=""/></p>
-		<p><input type="text" name=""		value=""/></p>
-		<p><input type="text" name=""		value=""/></p>
+
 		
 		<input type="submit" />
 	</form>

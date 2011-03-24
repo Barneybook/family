@@ -1,0 +1,31 @@
+﻿class person
+{
+	name		//姓名
+	first_name	//名字
+	last_name	//姓氏
+	
+	email		//信箱
+	
+	sex			//性別
+	birthday	//生日
+	
+	order		//家中順位
+	
+	mother		//母親
+	father		//父親
+	son			//兒子
+	daughter	//女兒
+	
+	wife		//妻子
+	husband		//丈夫
+	/*根據性別來判斷，顯示欄位，以及儲存哪個資料*/
+	
+	phone		//手機
+	address		//地址
+	
+}
+
+使用類別進行設計。
+
+處理資料的時候，php使用array來進行資料傳遞
+所有資料需要存入資料庫。

@@ -1,0 +1,7 @@
+﻿紀錄所有修改
+
+8/20
+從xoops模組開發拉出
+先完整開發出整個族譜的基本功能
+再整合進xoops的模組
+svn:manyscript-lib\trunk\PHP\family

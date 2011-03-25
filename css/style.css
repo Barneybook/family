@@ -1,0 +1,44 @@
+
+* 
+{
+	color: black;
+}
+body
+{
+
+}
+div.content
+{
+	margin		: auto;
+	width		: 800px;
+	height		: 600px;
+	background	: yellow;
+
+}
+
+div.top
+{
+	margin		: auto;
+	width		: 760px;
+	height		: 100px;
+	background	: white;
+}
+div.menu
+{
+	margin		: auto;
+	width		: 760px;
+	height		: 20px;
+	padding		: 20px;
+	background	: #F0CF0F;
+}
+div.data
+{
+	height		: auto;
+	background	: #CCCCFF;
+}
+div.bar
+{
+	background	: #FFCCCC;
+	display		: inline;
+	padding		: 10px;
+}

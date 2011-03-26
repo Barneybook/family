@@ -18,7 +18,7 @@ include "header.php";
 <div class="bar"><a href="edit.php">修改資料</a></div>
 <div class="bar"><a href="show.php">列出族譜</a></div>
 <div class="bar"><a href="list.php">列出清單</a></div>
-
+<div class="bar"><a href=""></a></div>
 </div>
 
 <div class="data">

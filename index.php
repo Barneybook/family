@@ -4,9 +4,7 @@
 include "header.php";
 
 ?>
-<!--
-<div class="bar"><a href="register.php">註冊資料</a></div>
--->
+
 <div class="content">
 
 <div class="top">
@@ -30,3 +28,6 @@ include "header.php";
 
 </body>
 </html>
+<!--
+<div class="bar"><a href="register.php">註冊資料</a></div>
+-->

@@ -12,6 +12,8 @@ show.php
 -->
 <body>
 
+<div id="main" class="contain-sq">
 
+</div>
 
 </body>
